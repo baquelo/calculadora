@@ -1,0 +1,25 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "Minha calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baquelo/calculadora.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Marcelo Almeida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baquelo/calculadora/issues"
+  },
+  "homepage": "https://github.com/baquelo/calculadora#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
